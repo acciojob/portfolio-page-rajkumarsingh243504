@@ -1,2 +1,54 @@
 
 /* Your CSS Code here. */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+img
+{
+    border-radius: 300px;
+}
+.container
+{
+    padding: 50px;
+    background-color: bisque;
+}
+h1
+{
+    padding: 20px;
+}
+a
+{
+    text-decoration: none;
+    padding: 20px;
+    
+    font-size: 20px;
+    /* background-color: blue; */
+    border-radius: 20px;
+    color:blue;
+    margin: 20px;
+
+}
+ li
+{
+    list-style-type: none;
+}
+#skills
+{
+    border: 1px solid black;
+    padding-left: 8%;
+    padding: 10px;
+    margin: 10px;
+    line-height: 25px;
+}
+#projects
+{
+    border: 1px solid black;
+    padding: 10px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    
+}
